@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello! I'm currently working on a few different projects. One is to gain experience working with MongoDB, another to is work with image data, one is an NLP project, and the last is a classification biopython project. Feel free to reach out if you have any questions!
 
 <!--
 **eannefawcett/eannefawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
