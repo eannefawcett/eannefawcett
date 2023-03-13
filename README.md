@@ -1,4 +1,4 @@
-Hello! I'm currently working on a few different projects. One is to gain experience working with MongoDB, another to is work with image data, one is an NLP project, and the last is a classification biopython project. Feel free to reach out if you have any questions!
+Hello! I'm currently working on a few different projects. Currently I am streaming the management of and execution of a logistic regression model in the chemistry domain. Also I am working on a couple of other side projects that include: a computer vision project in the domain biochemistry, a dice rolling project in the table top gaming domain, and publishing my past completed web applications to my website. Feel free to reach out if you have any questions!
 
 <!--
 **eannefawcett/eannefawcett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
